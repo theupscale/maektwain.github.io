@@ -13,7 +13,11 @@ and Project Implementation
 
 
 
-This website is developed using jekyll and github you can find the source code of this website here : [https://github.com/maektwain/maektwain.github.io.git]
+This website is developed using jekyll and github you can find the source code of this website here [Github] [github-link]
+
+
+
+[github-link]: https://github.com/maektwain/maektwain.github.io.git
 
 
 
