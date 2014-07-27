@@ -1,28 +1,54 @@
 ---
 layout: post
-title:  "Welcome to Jekyll Based Website of mine!"
-date:   2014-07-26 19:10:47
-categories: jekyll update
+title:  "All the math you will ever need!"
+date:   2014-07-27 11:03:47
+categories: mathematics research
 author: Saransh Sharma
 ---
-You know what its really annoying when you are setting up things for web based application,it requires
-you to set up a server, install webserver, db server woah and meet all those dependencies, which we all developer might
-end up as an nightmare, no, this time i did a little research about github pages , how they work, voila and excatly what i 
-need, see my problems are while developin an app over are
+Well, mathematics is beauty, its like that girlfriend of yours whom you have to be consistent true,
+when i started the deep root research in mathematics, one thing i knew that its going to take time and 
+i have to be regular with it, now if i look back the way we used to learn mathematics has huge difference if you we'd 
+always thought that math is all about numbers but lately realised that its not numbers we deal its something else, its called
+logic,problem solving skills,
 
-1.Setting upon a server would require me to master all the linux based bull***t which i dont want to spend 2 days in.
-2.No database hassles because my requirements were simple, content and design based website.
-3.I don't want to spend 4 days in asking friends and people that which is good cms (open source)
-4.Installing that cms is a cumbersome task, few days ago i had seen that while ankit was even struggling in that (even though he is good in that!)
+I have decided that i will study the why and how of "Math" in which i will reveal the secrets of mathematics,
+like why things happen at first place in math, so for few years its going to be mathematics, 
 
-So this "jekyll" came as a surprise no headache only what i need things which i am getting from jekyll are :
+Now see i travelled through Knowing types of numbers, and dealt with arithmetic operations small one and big one too
+realised numbers have given us the geometery , learned to see the clock in 4 quadrants, directions are also divided 
+similarly,integers , whole numbers , natural numbers,fractions, ratios, proportions, acute angles, obtuse angles, use of signs <, > mensuration faces, vertices, edges in 3D shapes, 
 
-1.All above things which i have to do to even for an HTML website i dont have to, and i am saving myself from the overhead cost of the server too
-which is a good things all the data is getting through "GITHUB" its sweet.
+If i can define all these here it would be,
 
-So No DB, nothing at all just plain file system based on ruby, all i did just installed "jekyll" and went through a simple ride of some swet github 
-commands and you can see this blog easy peasy!
+First off i pondered myself into the deep ocean, where i met numbers they are eternal and immortal, thier existence is 
+self evidentary that why they came into first place, god gave us natural number man invented the whole number,integers, and other so forth, 
 
+The patterns in mathematics is everywhere in the basics, on the top too,if you see arithmetic rules which are:
+Commutativity: It states that no matter what orders you add or multiply two digits the result is same,
+
+The INTERNATIONAL NUMBER SYSTEM VS INDIAN NUMBER SYSTEM 
+
+Fairly International is easy i dont why but it is 
+
+TenCrore=Hundred Million
+Crore=TenMillion
+TenLakh=Million
+Lakh=Hundred Thousands
+
+I have got to realise the standard set of metric conversions are
+10mm=1cm 
+1m=100cm
+	=1000mm
+1km=1000m
+
+so i have to realise that kilo is biggest and mili is smallest,
+
+Estimation is also an important tool which helps us to round off numbers to nearest values which includes to Tens and Hundreds and Thousands,
+
+For eg: 1,2,3,4 is near to 0 and 6,7,8,9 is near to 10 and too it comes under Estimation for tens so you can decide where
+to lead now and 5 is in middle so it is tend to lead towards 0.
+
+Roman Numerals 
 
 Jekyll also offers powerful support for code snippets:
 

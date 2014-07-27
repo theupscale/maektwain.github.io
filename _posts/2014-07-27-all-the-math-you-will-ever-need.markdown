@@ -30,8 +30,28 @@ The INTERNATIONAL NUMBER SYSTEM VS INDIAN NUMBER SYSTEM
 
 Fairly International is easy i dont why but it is 
 
-TenCrore		Crore		TenLakh	Lakh			TenThousands	Thousands	Hundreds	Tens	Ones
-Hundred Million		TenMillion	Million	HundredThousands	TenThousands	Thousands	Hundreds	Decimal	Unit
+TenCrore=Hundred Million
+Crore=TenMillion
+TenLakh=Million
+Lakh=Hundred Thousands
+
+I have got to realise the standard set of metric conversions are
+10mm=1cm 
+1m=100cm
+	=1000mm
+1km=1000m
+
+so i have to realise that kilo is biggest and mili is smallest,
+
+Estimation is also an important tool which helps us to round off numbers to nearest values which includes to Tens and Hundreds and Thousands,
+
+For eg: 1,2,3,4 is near to 0 and 6,7,8,9 is near to 10 and too it comes under Estimation for tens so you can decide where
+to lead now and 5 is in middle so it is tend to lead towards 0.
+
+Roman Numerals (Romans knew the counting but in thier own way) I ,II, III, IV  and so on  
+L stands in roman numerals for 50 there are certain rules if you are creating roman numerals such as 
+
+If a number is repeated its value will also be repeated 
 
 Jekyll also offers powerful support for code snippets:
 
