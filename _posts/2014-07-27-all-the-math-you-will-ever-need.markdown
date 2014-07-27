@@ -5,14 +5,15 @@ date:   2014-07-27 11:42:47
 categories: mathematics research
 author: Saransh Sharma
 ---
+<h2>Its like an Addiction</h2>
+
 Well, mathematics is beauty, its like that girlfriend of yours whom you have to be consistent true,
 when i started the deep root research in mathematics, one thing i knew that its going to take time and 
-i have to be regular with it, now if i look back the way we used to learn mathematics has huge difference if you we'd 
-always thought that math is all about numbers but lately realised that its not numbers we deal its something else, its called
-logic,problem solving skills,
+i have to be regular with it, now if i look back the way we used to learn mathematics has huge difference we used to see that math is all about numbers and theorem but lately i have realised that its not numbers we deal with its the real world
+problem we are trying to solve through it, thats why mathmatician relate it with logic,problem solving skills, 
 
 I have decided that i will study the why and how of "Math" in which i will reveal the secrets of mathematics,
-like why things happen at first place in math, so for few years its going to be mathematics, 
+like why things happen at first place in math, so for few years its going to be mathematics, for me 
 
 Now see i travelled through Knowing types of numbers, and dealt with arithmetic operations small one and big one too
 realised numbers have given us the geometery , learned to see the clock in 4 quadrants, directions are also divided 
@@ -61,7 +62,7 @@ Associativity Rule: (a+b)+c=(b+c)+a
 Distributivity Of Multiplication Over Addition, 
 	axb+axc
 	
-I have started playing with numbers so as to get friendly with them, and they will share thier secrets with me someday when the right time would come,
+I have started playing with numbers so as to get friendly with them, and they will share thier secrets with me someday when the right time will come,
 
 Learned about factors and multiples , there are certain rules for identifying the divisbility certain numbers,
 woah even and odd numbers prime numbers what are they 
