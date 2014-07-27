@@ -24,11 +24,11 @@ First off i pondered myself into the deep ocean, where i met numbers they are et
 self evidentary that why they came into first place, god gave us natural number man invented the whole number,integers, and other so forth, 
 
 The patterns in mathematics is everywhere in the basics, on the top too,if you see arithmetic rules which are:
-Commutativity: It states that no matter what orders you add or multiply two digits the result is same,
+Associativity: It states that no matter what orders you add or multiply two digits the result is same,
 
 The INTERNATIONAL NUMBER SYSTEM VS INDIAN NUMBER SYSTEM 
 
-Fairly International is easy i dont why but it is 
+Fair enough, International is easy i dont why but it is 
 
 TenCrore=Hundred Million
 Crore=TenMillion
@@ -51,6 +51,25 @@ to lead now and 5 is in middle so it is tend to lead towards 0.
 Roman Numerals (Romans knew the counting but in thier own way) I ,II, III, IV  and so on  
 L stands in roman numerals for 50 there are certain rules if you are creating roman numerals such as 
 
-If a number is repeated its value will also be repeated 
+If a number is repeated its value will also be repeated ,
+Symbols cannot be repeated more than three times, and symbols V,L,D are never repeated,
+
+Ascending and Descending Orders, which are increasing and dcreasing in order, addition on number line , 
+
+
+Associativity Rule: (a+b)+c=(b+c)+a
+Distributivity Of Multiplication Over Addition, 
+	axb+axc
+	
+I have started playing with numbers so as to get friendly with them, and they will share thier secrets with me someday when the right time would come,
+
+Learned about factors and multiples , there are certain rules for identifying the divisbility certain numbers,
+woah even and odd numbers prime numbers what are they 
+
+Even which are divisible by 2 and which are not by rest are odd 
+
+Prime numbers are those numbers which has only 1 and itself factors like 2 is the smallest prime and even numbers:)
+
+This is the little synopsis of my mathematical journey from the last 2 weeks, its little messed up but soon it will be organised where i will be psoting things in more categorised way !
 
 
