@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "All the math you will ever need!"
-date:   2014-07-27 11:03:47
+date:   2014-07-27 11:42:47
 categories: mathematics research
 author: Saransh Sharma
 ---
@@ -41,7 +41,7 @@ I have got to realise the standard set of metric conversions are
 	=1000mm
 1km=1000m
 
-so i have to realise that kilo is biggest and mili is smallest,
+Hence we can say that Kilo is the biggest and Mili is the smallest
 
 Estimation is also an important tool which helps us to round off numbers to nearest values which includes to Tens and Hundreds and Thousands,
 

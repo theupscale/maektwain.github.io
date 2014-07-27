@@ -41,7 +41,7 @@ I have got to realise the standard set of metric conversions are
 	=1000mm
 1km=1000m
 
-so i have to realise that kilo is biggest and mili is smallest,
+Hence we can say that Kilo is the biggest and Mili is the smallest
 
 Estimation is also an important tool which helps us to round off numbers to nearest values which includes to Tens and Hundreds and Thousands,
 
@@ -53,18 +53,4 @@ L stands in roman numerals for 50 there are certain rules if you are creating ro
 
 If a number is repeated its value will also be repeated 
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
-
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll]:    http://jekyllrb.com
 
