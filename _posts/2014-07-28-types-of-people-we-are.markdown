@@ -6,31 +6,32 @@ categories: people
 author: Saransh Sharma
 ---
 
-Disclaimer: Not pointing to anyone trust,me if you are moved by reading this, then you are one hahah!
+<b>Disclaimer</b>: Not pointing to anyone trust,me if you are moved by reading this, then you are one hahah!
 
 Lets talk about something, umm, its monday and its the starting day of the whole week, and i want to write about,
 something, math is not finished yet not even my research so couldn't write anything about them, so i have decided to 
 write about us.
 
-<b>Altruist<b>:I have met only few poeple who are altruist, who thinks about the welfare around you,they have found the source of happiness, and are quite optimistic too.
+<b>Altruist</b>:I have met only few poeple who are altruist, who thinks about the welfare around you,they have found the source of happiness, and are quite optimistic too.
 
-Ascetic:First thing came in my mind is my Head Of Department, Rajan Vohra, he has no desire of flesh, i guess, rest is you have to figure out.
+<b>Ascetic</b>:First thing came in my mind is my Head Of Department, Rajan Vohra, he has no desire of flesh, i guess, rest is you have to figure out.
 
-Egoist:You know what, me and me and me all the time his thoughts are conserved to himself and he thinks about himself, or like this post from the internet describes best of being an egoist [Being Egoist][egoist-link]
+<b>Egoist</b>:You know what, me and me and me all the time his thoughts are conserved to himself and he thinks about himself, or like this post from the internet describes best of being an egoist [Being Egoist][egoist-link]
 
-Egotist:I like these people they always talk about what they are doing and which is infact great for them but should have to be great for the world, too, like the dialogue from Amitabh bachhan movie: I have this and that what do you have...people like this advise :these people are really lonely from inside
+<b>Egotist</b>:I like these people they always talk about what they are doing and which is infact great for them but should have to be great for the world, too, like the dialogue from Amitabh bachhan movie: I have this and that what do you have...people like this advise :these people are really lonely from inside
 
-Introvert: Aha, these people think too much what others are thinking about them right now and create shadows inside thier head which is probably right for them as we have classified them, sometimes they take as thing omnious or indefatigable its upto them or sometimes they are anachronous too.
+<b>Introvert</b>: Aha, these people think too much what others are thinking about them right now and create shadows inside thier head which is probably right for them as we have classified them, sometimes they take as thing omnious or indefatigable its upto them or sometimes they are anachronous too.
 
-Extrovert:These sort of people, have endless loquacity if you are not going to put a tape on thier mouth they speak speak and speak, altough these types of people prefer comapanionship over modesty thats all they can be good friends because they are really open about themselves, and like to share whatever they have with themselves.(gregorians people these are too!)
+<b>Extrovert</b>:These sort of people, have endless loquacity if you are not going to put a tape on thier mouth they speak speak and speak, altough these types of people prefer comapanionship over modesty thats all they can be good friends because they are really open about themselves, and like to share whatever they have with themselves.(gregorians people these are too!)
 
-Ambivert:I would say these traits are for those who strike a balance between introvert and extrovert, they speak where they feel like , or you can say they first sense the enviornment and then proceed ahead, 
+<b>Ambivert</b>:I would say these traits are for those who strike a balance between introvert and extrovert, they speak where they feel like , or you can say they first sense the enviornment and then proceed ahead, 
 
-Misogynist:Sometimes people think that i am misogynist: no i am not i mean for that i have to be in a relationship with a woman who would have to betray me, which is not done as of yet,people like this preconcieve the notion all thier life womans are same and would do again and again for you Son you need to change it, 
+<b>Misogynist</b>:Sometimes people think that i am misogynist: no i am not i mean for that i have to be in a relationship with a woman who would have to betray me, which is not done as of yet,people like this preconcieve the notion all thier life womans are same and would do again and again for you Son you need to change it, 
 
-Misogamist: I am big one, i dont like the concept of getting married whole of your life with a woman whom you love i cannot do that because i have other things to do, because i cannot take a responsibility of a woman even though she can take care of her, but see the point is about not being free, if she can live without all the wedding stuff , because being together doesn't mean that you have to get a marriage certificate, for researchers it cannot be.
+<b>Misogamist</b>: I am big one, i dont like the concept of getting married whole of your life with a woman whom you love i cannot do that because i have other things to do, because i cannot take a responsibility of a woman even though she can take care of her, but see the point is about not being free, if she can live without all the wedding stuff , because being together doesn't mean that you have to get a marriage certificate, for researchers it cannot be.
 
-Misanthrope:You can see these people, those hate you and will even kill you for nothing, they have omnious attitude and are anachronous here, they hate humanity too, good for them, god save them.
+<b>Misanthrope</b>:You can see these people, those hate you and will even kill you for nothing, they have omnious attitude and are anachronous here, they hate humanity too, good for them, god save them.
 
- 
+I hope i have got it right,
+
 [egoist-link]:http://bystander.homestead.com/egoist.html
