@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Its good we realised,"
-date:   2014-10-20 09:52:11
+date:   2014-10-31 09:52:11
 categories: anu
 author: Saransh Sharma
 ---
@@ -19,4 +19,4 @@ Lets face, it bitch at some point we have to i have realised it, there is no suc
 You know what, our lives are so different, it can be aligned but with the due desires of individuals, which 
 was not happening at all, atleast i was not looking at it,can you look at it
 
-invested enough of the time not anymore, 
+invested enough of the time not anymore, 	
