@@ -19,4 +19,12 @@ Lets face, it bitch at some point we have to i have realised it, there is no suc
 You know what, our lives are so different, it can be aligned but with the due desires of individuals, which 
 was not happening at all, atleast i was not looking at it,can you look at it
 
-invested enough of the time not anymore, 	
+invested enough of the time not anymore, infact i have this huge problem i have got great intelligent mind but i dont know what to speak where,neither i don know what content to add, where
+
+so to describe my situation, 
+<ul><li>
+	
+	Porcupine tree always never convey it, 
+	i feel no pain, love you sometimes always never
+	
+</li></ul>
