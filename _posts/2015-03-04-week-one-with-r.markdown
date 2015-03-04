@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Week 1 with statistical language R"
-date:   2015-03-04 21:58:00
+date:   2015-03-04 22:02:00
 categories: r
 author: Saransh Sharma
 ---
@@ -69,7 +69,7 @@ for statistical analysis , in 1988 system was re-rewritten in C version 4 is wha
 
 ###R functionality is divided into a number of packages
 
-- The base R system contains in the "_base_" system include _utils_, _stats_, _datasets_, graphics, grDevices, grid, methods, tools, parallel, compiler. splines, tcltk, stats4.
+- The base R system contains in the "_base_" system include _utils_, _stats_, _datasets_, _graphics, grDevices, grid, methods, tools, parallel, compiler. splines, tcltk, stats4.
 - There are also Recommended pakcages : boot, class, cluster, codetools, foreign, KernSmooth, lattice, mgcv, rpart, survival, MAASS, spatial, nnet, Matrix
 
 ###Design of the R system
