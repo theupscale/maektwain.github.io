@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "R-console input and evaluation-Week 1"
-date:   2015-03-04 22:17:00
+date:   2015-03-04 22:20:00
 categories: r
 author: Saransh Sharma
 ---
@@ -21,8 +21,12 @@ So we can now enter few commands for assigning values like this
 
 ###Evaluation 
 
-- `x <- 5 ## nothing will print`
-- `x ## auto printing`
-- `[1] 5`
-- `print (x) ## explicit printing`
-- `[1] 5`
+```R
+    x <- 5 ## nothing will print
+    x ## auto printing
+    [1] 5
+    print (x) ## explicit printing
+    [1] 5
+    
+    ```
+    
