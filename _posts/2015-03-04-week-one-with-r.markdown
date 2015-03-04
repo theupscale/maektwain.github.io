@@ -69,8 +69,8 @@ for statistical analysis , in 1988 system was re-rewritten in C version 4 is wha
 
 ###R functionality is divided into a number of packages
 
-- The base R system contains in the "_base_" system include _utils_, _stats_, _datasets_, _graphics, grDevices, grid, methods, tools, parallel, compiler. splines, tcltk, stats4.
-- There are also Recommended pakcages : boot, class, cluster, codetools, foreign, KernSmooth, lattice, mgcv, rpart, survival, MAASS, spatial, nnet, Matrix
+- The base R system contains in the "_base_" system include _utils_, _stats_, _datasets_, _graphics_, _grDevices_, _grid_, _methods_, _tools_, _parallel_, _compiler_, _splines_, _tcltk_, _stats4_,
+- There are also Recommended pakcages : _boot_, _class_, _cluster_, _codetools_, _foreign_, _KernSmooth_, _lattice_, _mgcv_, _rpart_, _survival_, _MAASS_, _spatial_, _nnet_, _Matrix_
 
 ###Design of the R system
 
