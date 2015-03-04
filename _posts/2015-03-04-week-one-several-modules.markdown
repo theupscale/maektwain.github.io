@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "R-console input and evaluation-Week 1"
-date:   2015-03-04 22:20:00
+date:   2015-03-04 22:32:00
 categories: r
 author: Saransh Sharma
 ---
@@ -29,6 +29,11 @@ So we can now enter few commands for assigning values like this
     [1] 5
     
 {% endhighlight %}
+
+
+###Notes
+
+-The `[1]` indicates `x` is vector and `5` is the element
     
 
     
