@@ -6,7 +6,8 @@ categories: r
 author: Saransh Sharma
 ---
 
-As we have enough basic knowledge about R now like any other programming language R has suite of data objects which are as following 
+As we have enough basic knowledge about R now like any other programming language R has suite of data objects we will be dealing with vectors
+because it is lot like arrays the
 
 ###Objects
 R has five atomic classes of objects
@@ -41,3 +42,7 @@ R objects can have attributes
 - other user-defined attributes/metadata
 
 Attributes of an object can be accessed using `attributes()` function
+
+###Examples
+
+In the next blog!
