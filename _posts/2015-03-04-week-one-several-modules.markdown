@@ -30,10 +30,24 @@ So we can now enter few commands for assigning values like this
     
 {% endhighlight %}
 
+###Printing
+{% highlight R %}
+    x <- 1:20
+    x
+    [1]  1   2  3  4  5 6 7 8 9 10 11 12 13 14 15 
+    [16] 16 17 18 19 20
+
+{% endhighlight %}
+
+
+
+
 
 ###Notes
 
--The `[1]` indicates `x` is vector and `5` is the element
+- The `[1]` indicates `x` is vector and `5` is the element
+- The  `: `operator is used to create integer sequences
+
     
 
     
