@@ -34,7 +34,6 @@ Back to R
 - 1997 : R core group is formed 
 - 2000 : R version 1.0.0 is released
 - 2013 : R version 3.0.2 is released on December 
-- 
 
 Features of R
 
@@ -65,8 +64,8 @@ Drawbacks of R
 Design of the R System 
 
 - The R is divided into 2 parts
-..- The base R that we download from CRAN 
-..- Everything Else
+- The base R that we download from CRAN 
+- Everything Else
 
 
 
