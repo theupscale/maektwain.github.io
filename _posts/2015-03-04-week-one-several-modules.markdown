@@ -21,12 +21,14 @@ So we can now enter few commands for assigning values like this
 
 ###Evaluation 
 
-```R
+{% highlight R %}
     x <- 5 ## nothing will print
     x ## auto printing
     [1] 5
     print (x) ## explicit printing
     [1] 5
     
-```
+{% endhighlight %}
+    
+
     
