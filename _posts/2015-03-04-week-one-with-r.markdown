@@ -79,7 +79,7 @@ for statistical analysis , in 1988 system was re-rewritten in C version 4 is wha
 - There is no reliable way to keep track of how many packages are available.
 
 ###Some R Resources 
-####Available from [CRAN](http://cran.r-project.org)
+Available from [CRAN](http://cran.r-project.org)
 - An introduction to R
 - Writing R extensions
 - R data import/export
