@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The love with R-Matrices Week One"
-date:   2015-03-04 22:02:00
+date:   2015-03-05 00:07:00
 categories: r
 author: Saransh Sharma
 ---
